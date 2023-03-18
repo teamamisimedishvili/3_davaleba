@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+div {
+    margin-top: 150px;
+    color: #FAF4EF;
+    height: 420px;
+    width: 366px;
+   border-bottom-left-radius: 50px;
+}
+img {
+    padding-top: 65px;
+    padding-left: 75px;
+}
+h3 {
+    font-family: 'DM Serif Display';
+    font-size: 25px;
+    width: 289.px;
+    height: 54px;
+    padding-top: 50px;
+    padding-right: 175px;
+    color: #4B4B4B;
+    }
+    p {
+        font-family: 'DM Serif Display';
+        padding-right: 260px;
+        color: #737373;
+    }
